@@ -10,4 +10,16 @@ function sayHiToGrandma(string) {
   else if (string =="I love you, Grandma.")
   return "I love you, too."
   
+  function whisper(string) {
+    
+  }
+  
+  function logShout(string) {
+    return string.toLowerCase()
+  }
+  
+  function logWhisper(string) {
+    
+  }
+  
 }
