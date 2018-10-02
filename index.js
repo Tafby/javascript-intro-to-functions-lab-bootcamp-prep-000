@@ -11,11 +11,11 @@ function sayHiToGrandma(string) {
   return "I love you, too."
   
   function whisper(string) {
-    
+    return string.toLowerCase()
   }
   
   function logShout(string) {
-    return string.toLowerCase()
+    console.log(string.toUpperCase)
   }
   
   function logWhisper(string) {
